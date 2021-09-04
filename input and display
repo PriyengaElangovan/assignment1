@@ -1,0 +1,15 @@
+import java.util.Scanner;
+public class Program {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(system.in);
+        System.out.println("enter roll: ");
+        int roll = scanner.nextline();
+        System.out.println("enter name: ");
+        String name = scanner.nextline();
+        System.out.println("enter roll: ");
+        float mark = scanner.nextline();
+        System.out.println("roll=" +roll);
+        System.out.println("name=" +name);
+        System.out.println("marks=" +mark);
+    }
+}
